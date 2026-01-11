@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Emilly
 
-<!--
-**EmillyBambinetti/EmillyBambinetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sou uma **desenvolvedora iniciante**, focada em criar **projetos úteis e bem feitos**.  
+🚀 Sempre buscando **aprender, evoluir e colocar na prática tudo o que estudo**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sobre mim
+- 📚 Em constante aprendizado no mundo da programação  
+- 🛠️ Gosto de aprender criando projetos práticos  
+- 🎯 Buscando evoluir um pouco todos os dias  
+- 🤝 Aberta a feedbacks e colaborações  
+
+---
+
+## 🧰 Tecnologias (em aprendizado)
+- 💡 Linguagens: `HTML`, `CSS`, `Java`
+- ⚙️ Ferramentas: `Git`, `GitHub`, `VS Code`
+
+---
+
+## 📫 Contato
+- 📧 Email: **emillybambinetti@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/emilly-bambinetti**
+
+✨ Cada projeto é uma oportunidade de aprendizado!
